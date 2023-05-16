@@ -19,13 +19,13 @@ Para instalar o Terraform, siga as instruções da [documentação oficial](http
 Clone este repositório:
 
 ```bash
-git clone https://github.com/zeraimundo/terraform_virt.git
+git clone https://github.com/zeraimundo/terraform_ifpb.git
 ```
 
 Entre no diretório do projeto:
 
 ```bash
-cd terraform_virt
+cd terraform_ifpb
 ```
 
 Inicialize o Terraform:
